@@ -1,0 +1,2 @@
+# lbridge
+App for traduction
